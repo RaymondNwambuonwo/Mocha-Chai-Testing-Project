@@ -1,0 +1,12 @@
+{
+  "name": "firsttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha --reporter nyan",
+    "test:watch": "mocha --watch ./test ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
